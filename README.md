@@ -24,12 +24,12 @@ https://attendance-akshat-25.vercel.app/
 <img src="https://user-images.githubusercontent.com/106362820/226489095-69b2f7ec-0b29-466b-967a-db47ba6b7ab6.jpeg" width="200" height="400">
 &nbsp; &nbsp; 
 &nbsp; &nbsp; 
-  
+  <img src="https://user-images.githubusercontent.com/106362820/226489096-e93e02b5-d805-439b-b2ea-78bf6164c0af.jpeg" width="200" height="400">&nbsp; &nbsp; 
+&nbsp; &nbsp; 
 <img src="https://user-images.githubusercontent.com/106362820/226489089-5a6c4916-2256-417c-ba7d-de58cabcba95.jpeg" width="200" height="400">
 &nbsp; &nbsp; 
 &nbsp; &nbsp; 
-<img src="https://user-images.githubusercontent.com/106362820/226489096-e93e02b5-d805-439b-b2ea-78bf6164c0af.jpeg" width="200" height="400">&nbsp; &nbsp; 
-&nbsp; &nbsp; 
+
 <img src="https://user-images.githubusercontent.com/106362820/226489099-769d4770-5b14-4d26-8d4b-912666e10cfc.jpeg" width="200" height="400">&nbsp; &nbsp; 
 &nbsp; &nbsp; 
 <img src="https://user-images.githubusercontent.com/106362820/226489101-3cc40412-c14d-4c0e-963c-50d98165276a.jpeg" width="200" height="400">&nbsp; &nbsp; 
