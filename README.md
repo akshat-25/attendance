@@ -7,10 +7,11 @@
 
 An attendance tracking application using facial recognition is a system that can identify and verify the identity of individuals based on their facial features. This technology is becoming increasingly popular in various industries, including education, healthcare, and corporate settings. The system operates by capturing an image of an individual's face, detecting the face, recognizing it with a database, and marking the attendance. This technology offers a more efficient and accurate way of tracking attendance compared to traditional methods.
 
-### `npm start`
+## Introduction
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+*Data Gathering: Gather face data (face images in this case) of the persons you want to recognize
+*Training of Recognizer: Feed that face data (and respective names of each face) to the face recognizer so that it can learn.
+*Recognition: Feed new faces of the persons and see if the face recognizer you just trained recognizes them.
 
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
