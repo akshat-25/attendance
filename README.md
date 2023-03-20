@@ -5,7 +5,7 @@
 ## Overview
 
 
-An attendance tracking application using facial recognition is a system that can identify and verify the identity of individuals based on their facial features. This technology is becoming increasingly popular in various industries, including education, healthcare, and corporate settings. The system operates by capturing an image of an individual's face, detecting the face, recognizing it with a database, and marking the attendance. This technology offers a more efficient and accurate way of tracking attendance compared to traditional methods. In this article, we will explore the benefits and features of a facial recognition-based attendance tracking application.
+An attendance tracking application using facial recognition is a system that can identify and verify the identity of individuals based on their facial features. This technology is becoming increasingly popular in various industries, including education, healthcare, and corporate settings. The system operates by capturing an image of an individual's face, detecting the face, recognizing it with a database, and marking the attendance. This technology offers a more efficient and accurate way of tracking attendance compared to traditional methods.
 
 ### `npm start`
 
