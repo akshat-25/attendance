@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# Automated Attendance Tracking Application Using Facial Recognition
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
