@@ -24,13 +24,20 @@ https://attendance-akshat-25.vercel.app/
 <img src="https://user-images.githubusercontent.com/106362820/226489089-5a6c4916-2256-417c-ba7d-de58cabcba95.jpeg" width="200" height="400">
 &nbsp; &nbsp; 
 &nbsp; &nbsp; 
-![aa2](https://user-images.githubusercontent.com/106362820/226489095-69b2f7ec-0b29-466b-967a-db47ba6b7ab6.jpeg)
-![aa3](https://user-images.githubusercontent.com/106362820/226489096-e93e02b5-d805-439b-b2ea-78bf6164c0af.jpeg)
-![aa4](https://user-images.githubusercontent.com/106362820/226489099-769d4770-5b14-4d26-8d4b-912666e10cfc.jpeg)
-![aa5](https://user-images.githubusercontent.com/106362820/226489101-3cc40412-c14d-4c0e-963c-50d98165276a.jpeg)
-![aa6](https://user-images.githubusercontent.com/106362820/226489105-482308bc-f5a1-45b3-8540-742341244df8.jpeg)
-![aa7](https://user-images.githubusercontent.com/106362820/226489107-1d7fa378-9f92-48e8-985f-15ca58adf821.jpeg)
-![aa8](https://user-images.githubusercontent.com/106362820/226489108-fe41e874-6b6b-4e0b-b059-43eb6ec756ef.jpeg)
+<img src="https://user-images.githubusercontent.com/106362820/226489095-69b2f7ec-0b29-466b-967a-db47ba6b7ab6.jpeg">&nbsp; &nbsp; 
+&nbsp; &nbsp; 
+<img src="https://user-images.githubusercontent.com/106362820/226489096-e93e02b5-d805-439b-b2ea-78bf6164c0af.jpeg">&nbsp; &nbsp; 
+&nbsp; &nbsp; 
+<img src="https://user-images.githubusercontent.com/106362820/226489099-769d4770-5b14-4d26-8d4b-912666e10cfc.jpeg">&nbsp; &nbsp; 
+&nbsp; &nbsp; 
+<img src="https://user-images.githubusercontent.com/106362820/226489101-3cc40412-c14d-4c0e-963c-50d98165276a.jpeg">&nbsp; &nbsp; 
+&nbsp; &nbsp; 
+<img src="https://user-images.githubusercontent.com/106362820/226489105-482308bc-f5a1-45b3-8540-742341244df8.jpeg">&nbsp; &nbsp; 
+&nbsp; &nbsp; 
+<img src="https://user-images.githubusercontent.com/106362820/226489107-1d7fa378-9f92-48e8-985f-15ca58adf821.jpeg">&nbsp; &nbsp; 
+&nbsp; &nbsp; 
+<img src="https://user-images.githubusercontent.com/106362820/226489108-fe41e874-6b6b-4e0b-b059-43eb6ec756ef.jpeg">&nbsp; &nbsp; 
+&nbsp; &nbsp; 
 
 
 
