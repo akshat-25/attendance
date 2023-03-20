@@ -9,12 +9,11 @@ An attendance tracking application using facial recognition is a system that can
 
 ## Introduction
 
-**(1)** Data Gathering: Gather face data (face images in this case) of the persons you want to recognize.\
-**(2)**   Training of Recognizer: Feed that face data (and respective names of each face) to the face recognizer so that it can learn.\
-**(3)**   Recognition: Feed new faces of the persons and see if the face recognizer you just trained recognizes them.\
+**(1)**  **Data Gathering:** Gather face data (face images in this case) of the persons you want to recognize.\
+**(2)**  **Training of Recognizer:** Feed that face data (and respective names of each face) to the face recognizer so that it can learn.\
+**(3)**  **Recognition:** Feed new faces of the persons and see if the face recognizer you just trained recognizes them.\
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+
 
 ### `npm test`
 
