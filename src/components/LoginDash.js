@@ -29,7 +29,7 @@ const LoginDash = () => {
         <CSVReader />
       </div>
 
-      <div className="flex flex-row justify-start">
+      <div className="flex flex-row justify-start bg-neutral-900 h-screen">
         <Link
           to="/"
           className="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4  rounded-full focus:outline-none focus:shadow-outline ml-12"
