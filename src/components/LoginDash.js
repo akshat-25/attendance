@@ -25,11 +25,11 @@ const LoginDash = () => {
         <p className="text-4xl text-white ml-10 mt-5"> Hello, {email}! </p>
       </div>
 
-      <div className="flex flex-col justify-center px-10">
+      <div className="flex flex-col justify-center px-10  bg-neutral-900">
         <CSVReader />
       </div>
 
-      <div className="flex flex-row justify-start bg-neutral-900 ">
+      <div className="flex flex-row justify-start bg-neutral-900">
         <Link
           to="/"
           className="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4  rounded-full focus:outline-none focus:shadow-outline ml-12"
