@@ -1,71 +1,37 @@
-# Automated Attendance Tracking Application Using Facial Recognition
 
 
 
-## Overview
+## User Interface
+The attendance records could be viewed on Website and Mobile App
+- **Website**
+
+Link of the Website -> \
+https://attendance-akshat-25.vercel.app/
 
 
-An attendance tracking application using facial recognition is a system that can identify and verify the identity of individuals based on their facial features. This technology is becoming increasingly popular in various industries, including education, healthcare, and corporate settings. The system operates by capturing an image of an individual's face, detecting the face, recognizing it with a database, and marking the attendance. This technology offers a more efficient and accurate way of tracking attendance compared to traditional methods.
+![a1](https://user-images.githubusercontent.com/106362820/226487485-f0380c60-ec5f-4f39-936e-7c098468be24.jpg)
 
-## Introduction
+![a2](https://user-images.githubusercontent.com/106362820/226487491-11b46d76-3774-41a3-9d2d-55e2fbd38ed2.jpg)
 
-**(1)**  **Data Gathering:** Gather face data (face images in this case) of the persons you want to recognize.\
-**(2)**  **Training of Recognizer:** Feed that face data (and respective names of each face) to the face recognizer so that it can learn.\
-**(3)**  **Recognition:** Feed new faces of the persons and see if the face recognizer you just trained recognizes them.\
+![a3](https://user-images.githubusercontent.com/106362820/226487492-4a8f8fd3-c185-42f2-a3ec-78adb6a8a276.jpg)
+
+![a4](https://user-images.githubusercontent.com/106362820/226487493-389648b2-075d-44a6-9735-e9919c4592bd.jpg)
+
+- **Mobile App**
+
+<p float="left">
+
+<img src="https://user-images.githubusercontent.com/106362820/226489089-5a6c4916-2256-417c-ba7d-de58cabcba95.jpeg" width="200" height="400">
+&nbsp; &nbsp; 
+&nbsp; &nbsp; 
+![aa2](https://user-images.githubusercontent.com/106362820/226489095-69b2f7ec-0b29-466b-967a-db47ba6b7ab6.jpeg)
+![aa3](https://user-images.githubusercontent.com/106362820/226489096-e93e02b5-d805-439b-b2ea-78bf6164c0af.jpeg)
+![aa4](https://user-images.githubusercontent.com/106362820/226489099-769d4770-5b14-4d26-8d4b-912666e10cfc.jpeg)
+![aa5](https://user-images.githubusercontent.com/106362820/226489101-3cc40412-c14d-4c0e-963c-50d98165276a.jpeg)
+![aa6](https://user-images.githubusercontent.com/106362820/226489105-482308bc-f5a1-45b3-8540-742341244df8.jpeg)
+![aa7](https://user-images.githubusercontent.com/106362820/226489107-1d7fa378-9f92-48e8-985f-15ca58adf821.jpeg)
+![aa8](https://user-images.githubusercontent.com/106362820/226489108-fe41e874-6b6b-4e0b-b059-43eb6ec756ef.jpeg)
 
 
 
-### `npm test`
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
