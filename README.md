@@ -21,10 +21,11 @@ https://attendance-akshat-25.vercel.app/
 
 <p float="left">
 
+<img src="https://user-images.githubusercontent.com/106362820/226489095-69b2f7ec-0b29-466b-967a-db47ba6b7ab6.jpeg" width="200" height="400">&nbsp; &nbsp; 
+&nbsp; &nbsp; 
+  
 <img src="https://user-images.githubusercontent.com/106362820/226489089-5a6c4916-2256-417c-ba7d-de58cabcba95.jpeg" width="200" height="400">
 &nbsp; &nbsp; 
-&nbsp; &nbsp; 
-<img src="https://user-images.githubusercontent.com/106362820/226489095-69b2f7ec-0b29-466b-967a-db47ba6b7ab6.jpeg" width="200" height="400">&nbsp; &nbsp; 
 &nbsp; &nbsp; 
 <img src="https://user-images.githubusercontent.com/106362820/226489096-e93e02b5-d805-439b-b2ea-78bf6164c0af.jpeg" width="200" height="400">&nbsp; &nbsp; 
 &nbsp; &nbsp; 
